@@ -1,0 +1,1 @@
+Software written in C# and using WPF. To run it, install .NET on it's latest version. A simple USD to ARS conversor.

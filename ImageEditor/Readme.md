@@ -1,0 +1,1 @@
+Software written in C# and using WinForm. To run it, install .NET on it's latest version. A software designed to make simple edits of images, increaseing brightness and changing it's size.

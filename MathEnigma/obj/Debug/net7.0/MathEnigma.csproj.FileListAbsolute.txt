@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\MathEnigma\bin\Debug\net7.0\MathEnigma.exe
+C:\Users\Usuario\source\repos\MathEnigma\bin\Debug\net7.0\MathEnigma.deps.json
+C:\Users\Usuario\source\repos\MathEnigma\bin\Debug\net7.0\MathEnigma.runtimeconfig.json
+C:\Users\Usuario\source\repos\MathEnigma\bin\Debug\net7.0\MathEnigma.dll
+C:\Users\Usuario\source\repos\MathEnigma\bin\Debug\net7.0\MathEnigma.pdb
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\MathEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\MathEnigma.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\MathEnigma.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\MathEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\MathEnigma.dll
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\refint\MathEnigma.dll
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\MathEnigma.pdb
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\MathEnigma.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\MathEnigma\obj\Debug\net7.0\ref\MathEnigma.dll

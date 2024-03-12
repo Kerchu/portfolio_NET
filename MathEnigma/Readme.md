@@ -1,0 +1,1 @@
+Software written in C# and using exceptions. To run it, install .NET on it's latest version. A math enigma game where the values are modified by rand numbers.

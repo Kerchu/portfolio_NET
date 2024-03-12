@@ -1,0 +1,1 @@
+Software written in C# and using exceptions. To run it, install .NET on it's latest version. A random word choser where you have to guess the word based on hints given by input letters. Basically a virtual hangman.

@@ -1,0 +1,10 @@
+C:\Users\Lab7-XX\source\repos\TempCelToFa\bin\Debug\TempCelToFa.exe.config
+C:\Users\Lab7-XX\source\repos\TempCelToFa\bin\Debug\TempCelToFa.exe
+C:\Users\Lab7-XX\source\repos\TempCelToFa\bin\Debug\TempCelToFa.pdb
+C:\Users\Lab7-XX\source\repos\TempCelToFa\obj\Debug\TempCelToFa.csproj.AssemblyReference.cache
+C:\Users\Lab7-XX\source\repos\TempCelToFa\obj\Debug\TempCelToFa.Form1.resources
+C:\Users\Lab7-XX\source\repos\TempCelToFa\obj\Debug\TempCelToFa.Properties.Resources.resources
+C:\Users\Lab7-XX\source\repos\TempCelToFa\obj\Debug\TempCelToFa.csproj.GenerateResource.cache
+C:\Users\Lab7-XX\source\repos\TempCelToFa\obj\Debug\TempCelToFa.csproj.CoreCompileInputs.cache
+C:\Users\Lab7-XX\source\repos\TempCelToFa\obj\Debug\TempCelToFa.exe
+C:\Users\Lab7-XX\source\repos\TempCelToFa\obj\Debug\TempCelToFa.pdb

@@ -1,0 +1,1 @@
+Software written in C# and using WinForm. To run it, install .NET on it's latest version. A simple Celsius to Fahrenheit degree conversor.

@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\RandWord\bin\Debug\net7.0\RandWord.exe
+C:\Users\Usuario\source\repos\RandWord\bin\Debug\net7.0\RandWord.deps.json
+C:\Users\Usuario\source\repos\RandWord\bin\Debug\net7.0\RandWord.runtimeconfig.json
+C:\Users\Usuario\source\repos\RandWord\bin\Debug\net7.0\RandWord.dll
+C:\Users\Usuario\source\repos\RandWord\bin\Debug\net7.0\RandWord.pdb
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\RandWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\RandWord.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\RandWord.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\RandWord.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\RandWord.dll
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\refint\RandWord.dll
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\RandWord.pdb
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\RandWord.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\RandWord\obj\Debug\net7.0\ref\RandWord.dll

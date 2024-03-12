@@ -1,0 +1,20 @@
+C:\Users\Lab7-XX\source\repos\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\Lab7-XX\source\repos\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\Lab7-XX\source\repos\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\Lab7-XX\source\repos\ImageEditor\obj\Debug\ImageEditor.csproj.AssemblyReference.cache
+C:\Users\Lab7-XX\source\repos\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\Lab7-XX\source\repos\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\Lab7-XX\source\repos\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Lab7-XX\source\repos\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\Lab7-XX\source\repos\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\Lab7-XX\source\repos\ImageEditor\obj\Debug\ImageEditor.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\bin\Debug\ImageEditor.exe.config
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\bin\Debug\ImageEditor.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\bin\Debug\ImageEditor.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\obj\Debug\ImageEditor.csproj.AssemblyReference.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\obj\Debug\ImageEditor.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\ImageEditor\obj\Debug\ImageEditor.pdb

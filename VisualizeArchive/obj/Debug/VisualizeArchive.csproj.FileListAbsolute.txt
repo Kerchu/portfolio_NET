@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\VisualizeArchive\obj\Debug\VisualizeArchive.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\VisualizeArchive\obj\Debug\VisualizeArchive.Form1.resources
+C:\Users\Usuario\source\repos\VisualizeArchive\obj\Debug\VisualizeArchive.Properties.Resources.resources
+C:\Users\Usuario\source\repos\VisualizeArchive\obj\Debug\VisualizeArchive.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\VisualizeArchive\obj\Debug\VisualizeArchive.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\VisualizeArchive\bin\Debug\VisualizeArchive.exe.config
+C:\Users\Usuario\source\repos\VisualizeArchive\bin\Debug\VisualizeArchive.exe
+C:\Users\Usuario\source\repos\VisualizeArchive\bin\Debug\VisualizeArchive.pdb
+C:\Users\Usuario\source\repos\VisualizeArchive\obj\Debug\VisualizeArchive.exe
+C:\Users\Usuario\source\repos\VisualizeArchive\obj\Debug\VisualizeArchive.pdb

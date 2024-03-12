@@ -1,0 +1,1 @@
+App designed using WPF. It's purpose is to simulate a canva and track the mouse buttons and pointer to draw on the canvas. To run it, install .NET Framework latest version.

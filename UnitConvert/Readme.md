@@ -1,0 +1,1 @@
+Software written in C# and using WPF. To run it, install .NET on it's latest version. A simple unit convert software from metric system to imperial.

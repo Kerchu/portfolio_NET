@@ -1,0 +1,44 @@
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).exe
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).deps.json
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).runtimeconfig.json
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).pdb
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\NAudio.dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\NAudio.Asio.dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\NAudio.Core.dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\NAudio.Midi.dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\NAudio.Wasapi.dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\bin\Debug\net7.0\NAudio.WinMM.dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).AssemblyInfo.cs
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).csproj.CopyComplete
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\refint\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).pdb
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).genruntimeconfig.cache
+C:\Users\Franco\Desktop\UBP\3er año\PGE\Parcial 1\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini)\obj\Debug\net7.0\ref\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).deps.json
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).runtimeconfig.json
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\NAudio.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\NAudio.Asio.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\NAudio.Core.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\NAudio.Midi.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\NAudio.Wasapi.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\bin\Debug\net7.0\NAudio.WinMM.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).csproj.AssemblyReference.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).AssemblyInfoInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).AssemblyInfo.cs
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).csproj.CoreCompileInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).csproj.CopyComplete
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\refint\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).genruntimeconfig.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\GuessTheSong\obj\Debug\net7.0\ref\Adivina la canción - Parcial 1 - PGE (Carrizo, Rodriguez, Sartini).dll

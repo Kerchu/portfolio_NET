@@ -1,0 +1,1 @@
+Software written in C# and using WinForm. To run it, install .NET on it's latest version. A personal spending manager to handle your inner consumerism in a responsible way! It has two currencies: AR$ (Argentine Peso) and U$D (American Dollar).

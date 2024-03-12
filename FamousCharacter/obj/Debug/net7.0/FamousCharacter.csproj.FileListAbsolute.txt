@@ -1,0 +1,28 @@
+C:\Users\Usuario\source\repos\FamousCharacter\bin\Debug\net7.0\FamousCharacter.exe
+C:\Users\Usuario\source\repos\FamousCharacter\bin\Debug\net7.0\FamousCharacter.deps.json
+C:\Users\Usuario\source\repos\FamousCharacter\bin\Debug\net7.0\FamousCharacter.runtimeconfig.json
+C:\Users\Usuario\source\repos\FamousCharacter\bin\Debug\net7.0\FamousCharacter.dll
+C:\Users\Usuario\source\repos\FamousCharacter\bin\Debug\net7.0\FamousCharacter.pdb
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\FamousCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\FamousCharacter.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\FamousCharacter.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\FamousCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\FamousCharacter.dll
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\refint\FamousCharacter.dll
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\FamousCharacter.pdb
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\FamousCharacter.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\FamousCharacter\obj\Debug\net7.0\ref\FamousCharacter.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\bin\Debug\net7.0\FamousCharacter.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\bin\Debug\net7.0\FamousCharacter.deps.json
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\bin\Debug\net7.0\FamousCharacter.runtimeconfig.json
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\bin\Debug\net7.0\FamousCharacter.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\bin\Debug\net7.0\FamousCharacter.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\FamousCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\FamousCharacter.AssemblyInfoInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\FamousCharacter.AssemblyInfo.cs
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\FamousCharacter.csproj.CoreCompileInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\FamousCharacter.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\refint\FamousCharacter.dll
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\FamousCharacter.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\FamousCharacter.genruntimeconfig.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\FamousCharacter\obj\Debug\net7.0\ref\FamousCharacter.dll

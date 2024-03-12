@@ -1,0 +1,1 @@
+Software written in C# and using exceptions. To run it, install .NET on it's latest version. Emulates the famous Akinator from his POV.

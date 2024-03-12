@@ -1,0 +1,1 @@
+Software written in C# and using Winform. To run it, install .NET on it's latest version. A simple .txt archive viewer.

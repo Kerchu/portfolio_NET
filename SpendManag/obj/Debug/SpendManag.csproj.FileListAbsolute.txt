@@ -1,0 +1,20 @@
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\bin\Debug\SpendManag.exe.config
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\bin\Debug\SpendManag.exe
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\bin\Debug\SpendManag.pdb
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\obj\Debug\SpendManag.csproj.AssemblyReference.cache
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\obj\Debug\SpendManag.Form1.resources
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\obj\Debug\SpendManag.Properties.Resources.resources
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\obj\Debug\SpendManag.csproj.GenerateResource.cache
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\obj\Debug\SpendManag.csproj.CoreCompileInputs.cache
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\obj\Debug\SpendManag.exe
+D:\Usuario Lab3-PC25\Downloads\SpendManag\SpendManag\obj\Debug\SpendManag.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\bin\Debug\SpendManag.exe.config
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\bin\Debug\SpendManag.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\bin\Debug\SpendManag.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\obj\Debug\SpendManag.csproj.AssemblyReference.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\obj\Debug\SpendManag.Form1.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\obj\Debug\SpendManag.Properties.Resources.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\obj\Debug\SpendManag.csproj.GenerateResource.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\obj\Debug\SpendManag.csproj.CoreCompileInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\obj\Debug\SpendManag.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\SpendManag\obj\Debug\SpendManag.pdb

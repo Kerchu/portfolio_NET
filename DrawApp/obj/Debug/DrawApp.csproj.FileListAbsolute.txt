@@ -1,0 +1,30 @@
+C:\Users\Lab7-XX\source\repos\DrawApp\bin\Debug\DrawApp.exe.config
+C:\Users\Lab7-XX\source\repos\DrawApp\bin\Debug\DrawApp.exe
+C:\Users\Lab7-XX\source\repos\DrawApp\bin\Debug\DrawApp.pdb
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp.csproj.AssemblyReference.cache
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\MainWindow.g.cs
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\App.g.cs
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp_MarkupCompile.cache
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp_MarkupCompile.lref
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\MainWindow.baml
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp.g.resources
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp.Properties.Resources.resources
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp.csproj.GenerateResource.cache
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp.csproj.CoreCompileInputs.cache
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp.exe
+C:\Users\Lab7-XX\source\repos\DrawApp\obj\Debug\DrawApp.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\bin\Debug\DrawApp.exe.config
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\bin\Debug\DrawApp.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\bin\Debug\DrawApp.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp.csproj.AssemblyReference.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\MainWindow.g.cs
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\App.g.cs
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp_MarkupCompile.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp_MarkupCompile.lref
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\MainWindow.baml
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp.g.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp.Properties.Resources.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp.csproj.GenerateResource.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp.csproj.CoreCompileInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\DrawApp\obj\Debug\DrawApp.pdb

@@ -1,0 +1,28 @@
+C:\Users\Usuario\source\repos\UnitConvert\bin\Debug\UnitConvert.exe.config
+C:\Users\Usuario\source\repos\UnitConvert\bin\Debug\UnitConvert.exe
+C:\Users\Usuario\source\repos\UnitConvert\bin\Debug\UnitConvert.pdb
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert_MarkupCompile.cache
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert.g.resources
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert.Properties.Resources.resources
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert.exe
+C:\Users\Usuario\source\repos\UnitConvert\obj\Debug\UnitConvert.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\bin\Debug\UnitConvert.exe.config
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\bin\Debug\UnitConvert.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\bin\Debug\UnitConvert.pdb
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert.csproj.AssemblyReference.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\MainWindow.baml
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\MainWindow.g.cs
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\App.g.cs
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert_MarkupCompile.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert.g.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert.Properties.Resources.resources
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert.csproj.GenerateResource.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert.csproj.CoreCompileInputs.cache
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert.exe
+D:\User\Nueva carpeta\Stuff\Homework UBP\Programming\PGE\.Net\.Net-C#\UnitConvert\obj\Debug\UnitConvert.pdb
